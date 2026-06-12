@@ -30,11 +30,7 @@ import { CountUp } from 'use-count-up'
 import { motion } from "framer-motion";
 import {motion_css} from "framer-motion";
 import {motion_css} from "framer-motion";git push -u origin main
-git push -u origin main
-git push -u origin main
-git push -u origin main
-git push -u origin main
-git push -u origin main
+
 
 
 function Dashboard() {
